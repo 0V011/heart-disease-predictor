@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+streamlit-authenticator
+fairlearn
+reportlab
+bcrypt
+matplotlib
+seaborn
+openpyxl
